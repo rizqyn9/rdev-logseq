@@ -1,0 +1,8 @@
+- # Test
+- ```typescript
+  import data from "test/data"
+  
+  console.log(data.a)
+  ```
+-
+-
